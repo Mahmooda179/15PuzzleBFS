@@ -1,7 +1,3 @@
-NAME: Mahmooda Ali
-UIN: 672890252
-NETID: mali69
-
 COMPILER: 
     Java 1.8
 
